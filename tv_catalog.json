@@ -6,66 +6,50 @@
       "id": "uz_mtrk",
       "title": {"ru": "Узбекистан — МТРК", "uz": "O'zbekiston — MTRK", "en": "Uzbekistan — MTRK"},
       "channels": [
-        {"id": "uz_ozbekiston", "name": "O'zbekiston", "color": "#1E5AA8", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston", "telegram": "uzbekistantv_rasmiy", "verified": true},
-        {"id": "uz_ozbekiston24", "name": "O'zbekiston 24", "color": "#C62828", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston-24", "telegram": "uzbekistan24_tvnews", "verified": true},
-        {"id": "uz_yoshlar", "name": "Yoshlar", "color": "#F57C00", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/yoshlar", "telegram": "yoshlar_tv", "verified": true},
-        {"id": "uz_toshkent", "name": "Toshkent", "color": "#00897B", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/toshkent", "telegram": "", "verified": true},
-        {"id": "uz_sport", "name": "Sport", "color": "#2E7D32", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/sport", "telegram": "tvsport_rasmiy", "verified": true},
-        {"id": "uz_futbol", "name": "Futbol TV", "color": "#2E7D32", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/futbol-tv", "telegram": "tvfutbol_rasmiy", "verified": true},
-        {"id": "uz_madaniyat", "name": "Madaniyat va ma'rifat", "color": "#6A1B9A", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/madaniyat-va-marifat", "telegram": "madaniyat_marifat_tv", "verified": true},
-        {"id": "uz_dunyo", "name": "Dunyo bo'ylab", "color": "#0277BD", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/dunyo-boylab", "telegram": "tvdunyo", "verified": true},
-        {"id": "uz_bolajon", "name": "Bolajon", "color": "#FBC02D", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/bolajon", "telegram": "bolajontelekanali", "verified": true},
-        {"id": "uz_navo", "name": "Navo", "color": "#AD1457", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/navo", "telegram": "navotvuzb", "verified": true},
-        {"id": "uz_mahalla", "name": "Mahalla", "color": "#558B2F", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/mahalla", "telegram": "MahallaTelekanali", "verified": true},
-        {"id": "uz_kinoteatr", "name": "Kinoteatr", "color": "#4E342E", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/kinoteatr", "telegram": "kinoteatr_rasmiy_uz", "verified": true},
-        {"id": "uz_oilaviy", "name": "Oilaviy", "color": "#EF6C00", "type": "web", "site": "https://mtrk.uz", "live_url": "", "telegram": "", "verified": false},
-        {"id": "uz_tarix", "name": "O'zbekiston tarixi", "color": "#8D6E63", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston-tarixi", "telegram": "ozbekiston_tarixi_rasmiy", "verified": true},
-        {"id": "uz_aqlvoy", "name": "Aqlvoy", "color": "#43A047", "type": "web", "site": "https://mtrk.uz", "live_url": "", "telegram": "", "verified": false},
-        {"id": "uz_uzhd", "name": "UzHD", "color": "#37474F", "type": "web", "site": "https://mtrk.uz", "live_url": "", "telegram": "", "verified": false}
-      ]
-    },
-    {
-      "id": "uz_private",
-      "title": {"ru": "Узбекистан — частные", "uz": "O'zbekiston — xususiy", "en": "Uzbekistan — private"},
-      "channels": [
-        {"id": "uz_sevimli", "name": "Sevimli TV", "color": "#D81B60", "type": "web", "site": "https://sevimlitv.uz", "live_url": "", "telegram": "tvsevimli", "verified": false},
-        {"id": "uz_milliy", "name": "Milliy TV", "color": "#1565C0", "type": "web", "site": "", "live_url": "", "telegram": "milliytv", "verified": false},
-        {"id": "uz_zor", "name": "Zo'r TV", "color": "#E53935", "type": "web", "site": "https://zortv.uz", "live_url": "", "telegram": "zortv_kanal", "verified": false},
-        {"id": "uz_my5", "name": "MY5", "color": "#7B1FA2", "type": "web", "site": "", "live_url": "", "telegram": "", "verified": false},
-        {"id": "uz_uzreport", "name": "Uzreport TV", "color": "#00838F", "type": "web", "site": "https://uzreport.news", "live_url": "", "telegram": "UzReport", "verified": false}
+        {"id": "uz_ozbekiston", "name": "O'zbekiston", "color": "#1E5AA8", "icon": "dilgram_tv_uz_ozbekiston", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston", "embed_url": "", "stream_url": "", "telegram": "uzbekistantv_rasmiy", "verified": true},
+        {"id": "uz_ozbekiston24", "name": "O'zbekiston 24", "color": "#C62828", "icon": "dilgram_tv_uz_ozbekiston24", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston-24", "embed_url": "", "stream_url": "", "telegram": "uzbekistan24_tvnews", "verified": true},
+        {"id": "uz_yoshlar", "name": "Yoshlar", "color": "#F57C00", "icon": "dilgram_tv_uz_yoshlar", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/yoshlar", "embed_url": "", "stream_url": "", "telegram": "yoshlar_tv", "verified": true},
+        {"id": "uz_toshkent", "name": "Toshkent", "color": "#00897B", "icon": "dilgram_tv_uz_toshkent", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/toshkent", "embed_url": "", "stream_url": "", "telegram": "", "verified": true},
+        {"id": "uz_sport", "name": "Sport", "color": "#2E7D32", "icon": "dilgram_tv_uz_sport", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/sport", "embed_url": "", "stream_url": "", "telegram": "tvsport_rasmiy", "verified": true},
+        {"id": "uz_futbol", "name": "Futbol TV", "color": "#2E7D32", "icon": "dilgram_tv_uz_futbol", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/futbol-tv", "embed_url": "", "stream_url": "", "telegram": "tvfutbol_rasmiy", "verified": true},
+        {"id": "uz_madaniyat", "name": "Madaniyat va ma'rifat", "color": "#6A1B9A", "icon": "dilgram_tv_uz_madaniyat", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/madaniyat-va-marifat", "embed_url": "", "stream_url": "", "telegram": "madaniyat_marifat_tv", "verified": true},
+        {"id": "uz_dunyo", "name": "Dunyo bo'ylab", "color": "#0277BD", "icon": "dilgram_tv_uz_dunyo", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/dunyo-boylab", "embed_url": "", "stream_url": "", "telegram": "tvdunyo", "verified": true},
+        {"id": "uz_bolajon", "name": "Bolajon", "color": "#FBC02D", "icon": "dilgram_tv_uz_bolajon", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/bolajon", "embed_url": "", "stream_url": "", "telegram": "bolajontelekanali", "verified": true},
+        {"id": "uz_navo", "name": "Navo", "color": "#AD1457", "icon": "dilgram_tv_uz_navo", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/navo", "embed_url": "", "stream_url": "", "telegram": "navotvuzb", "verified": true},
+        {"id": "uz_mahalla", "name": "Mahalla", "color": "#558B2F", "icon": "dilgram_tv_uz_mahalla", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/mahalla", "embed_url": "", "stream_url": "", "telegram": "MahallaTelekanali", "verified": true},
+        {"id": "uz_kinoteatr", "name": "Kinoteatr", "color": "#4E342E", "icon": "dilgram_tv_uz_kinoteatr", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/kinoteatr", "embed_url": "", "stream_url": "", "telegram": "kinoteatr_rasmiy_uz", "verified": true},
+        {"id": "uz_tarix", "name": "O'zbekiston tarixi", "color": "#8D6E63", "icon": "dilgram_tv_uz_tarix", "type": "web", "site": "https://mtrk.uz", "live_url": "https://mtrk.uz/uz/live/ozbekiston-tarixi", "embed_url": "", "stream_url": "", "telegram": "ozbekiston_tarixi_rasmiy", "verified": true}
       ]
     },
     {
       "id": "ru_federal",
       "title": {"ru": "Россия — федеральные", "uz": "Rossiya — federal", "en": "Russia — federal"},
       "channels": [
-        {"id": "ru_1tv", "name": "Первый канал", "color": "#0D47A1", "type": "web", "site": "https://www.1tv.ru", "live_url": "https://www.1tv.ru/live", "telegram": "channelone_official", "verified": true},
-        {"id": "ru_russia1", "name": "Россия 1", "color": "#B71C1C", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/1", "telegram": "", "verified": true},
-        {"id": "ru_ntv", "name": "НТВ", "color": "#1B5E20", "type": "web", "site": "https://www.ntv.ru", "live_url": "https://www.ntv.ru/air/", "telegram": "ntvnews", "verified": true},
-        {"id": "ru_5tv", "name": "Пятый канал", "color": "#E65100", "type": "web", "site": "https://www.5-tv.ru", "live_url": "https://www.5-tv.ru/live/", "telegram": "tv5ru", "verified": true},
-        {"id": "ru_ren", "name": "РЕН ТВ", "color": "#212121", "type": "web", "site": "https://ren.tv", "live_url": "https://ren.tv/live", "telegram": "", "verified": true},
-        {"id": "ru_otr", "name": "ОТР", "color": "#00695C", "type": "web", "site": "https://otr-online.ru", "live_url": "https://otr-online.ru/online/", "telegram": "otr_tv", "verified": true},
-        {"id": "ru_zvezda", "name": "Звезда", "color": "#C62828", "type": "web", "site": "https://tvzvezda.ru", "live_url": "https://tvzvezda.ru/video", "telegram": "zvezdanews", "verified": true},
-        {"id": "ru_tvc", "name": "ТВ Центр", "color": "#283593", "type": "web", "site": "https://www.tvc.ru", "live_url": "https://www.tvc.ru/live", "telegram": "tvc_ru", "verified": true},
-        {"id": "ru_mir", "name": "Мир", "color": "#0277BD", "type": "web", "site": "https://mirtv.ru", "live_url": "", "telegram": "", "verified": false},
-        {"id": "ru_spas", "name": "Спас", "color": "#5D4037", "type": "web", "site": "https://spastv.ru", "live_url": "https://spastv.ru/efir/", "telegram": "spastv", "verified": true}
+        {"id": "ru_1tv", "name": "Первый канал", "color": "#0D47A1", "icon": "dilgram_tv_ru_1tv", "type": "web", "site": "https://www.1tv.ru", "live_url": "https://www.1tv.ru/live", "embed_url": "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=../embeds/1tv_live.html", "stream_url": "", "telegram": "channelone_official", "verified": true},
+        {"id": "ru_russia1", "name": "Россия 1", "color": "#B71C1C", "icon": "dilgram_tv_ru_russia1", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/1", "embed_url": "", "stream_url": "", "telegram": "", "verified": true},
+        {"id": "ru_ntv", "name": "НТВ", "color": "#1B5E20", "icon": "dilgram_tv_ru_ntv", "type": "hls", "site": "https://www.ntv.ru", "live_url": "https://www.ntv.ru/air/", "embed_url": "", "stream_url": "https://cdn.ntv.ru/ntv0_hd/index.m3u8", "telegram": "ntvnews", "verified": true},
+        {"id": "ru_5tv", "name": "Пятый канал", "color": "#E65100", "icon": "dilgram_tv_ru_5tv", "type": "web", "site": "https://www.5-tv.ru", "live_url": "https://www.5-tv.ru/live/", "embed_url": "https://player.mediavitrina.ru/5tv/5tv_web/player.html", "stream_url": "", "telegram": "tv5ru", "verified": true},
+        {"id": "ru_ren", "name": "РЕН ТВ", "color": "#212121", "icon": "dilgram_tv_ru_ren", "type": "web", "site": "https://ren.tv", "live_url": "https://ren.tv/live", "embed_url": "https://player.mediavitrina.ru/rentv/rentv_web/player.html", "stream_url": "", "telegram": "", "verified": true},
+        {"id": "ru_otr", "name": "ОТР", "color": "#00695C", "icon": "dilgram_tv_ru_otr", "type": "web", "site": "https://otr-online.ru", "live_url": "https://otr-online.ru/online/", "embed_url": "", "stream_url": "", "telegram": "otr_tv", "verified": true},
+        {"id": "ru_zvezda", "name": "Звезда", "color": "#C62828", "icon": "dilgram_tv_ru_zvezda", "type": "hls", "site": "https://tvzvezda.ru", "live_url": "https://tvzvezda.ru/video", "embed_url": "", "stream_url": "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8", "telegram": "zvezdanews", "verified": true},
+        {"id": "ru_tvc", "name": "ТВ Центр", "color": "#283593", "icon": "dilgram_tv_ru_tvc", "type": "web", "site": "https://www.tvc.ru", "live_url": "https://www.tvc.ru/live", "embed_url": "https://player.mediavitrina.ru/tvc/tvc/tvc_web/67657b1eca599/player.html", "stream_url": "", "telegram": "tvc_ru", "verified": true},
+        {"id": "ru_spas", "name": "Спас", "color": "#5D4037", "icon": "dilgram_tv_ru_spas", "type": "web", "site": "https://spastv.ru", "live_url": "https://spastv.ru/efir/", "embed_url": "", "stream_url": "", "telegram": "spastv", "verified": true}
       ]
     },
     {
       "id": "ru_news",
       "title": {"ru": "Россия — новости", "uz": "Rossiya — yangiliklar", "en": "Russia — news"},
       "channels": [
-        {"id": "ru_russia24", "name": "Россия 24", "color": "#1565C0", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/3", "telegram": "", "verified": true},
-        {"id": "ru_mir24", "name": "Мир 24", "color": "#00838F", "type": "web", "site": "https://mir24.tv", "live_url": "", "telegram": "", "verified": false}
+        {"id": "ru_russia24", "name": "Россия 24", "color": "#1565C0", "icon": "dilgram_tv_ru_russia24", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/3", "embed_url": "", "stream_url": "", "telegram": "", "verified": true}
       ]
     },
     {
       "id": "ru_culture_kids",
       "title": {"ru": "Россия — культура, спорт, детям", "uz": "Rossiya — madaniyat, sport, bolalar", "en": "Russia — culture, sport, kids"},
       "channels": [
-        {"id": "ru_kultura", "name": "Россия Культура", "color": "#6A1B9A", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/4", "telegram": "", "verified": true},
-        {"id": "ru_match", "name": "Матч ТВ", "color": "#D50000", "type": "web", "site": "https://matchtv.ru", "live_url": "https://matchtv.ru/video/channel/matchtv", "telegram": "Match_TV", "verified": true},
-        {"id": "ru_karusel", "name": "Карусель", "color": "#FF6F00", "type": "web", "site": "https://www.karusel-tv.ru", "live_url": "https://www.karusel-tv.ru/live", "telegram": "karusel", "verified": true}
+        {"id": "ru_kultura", "name": "Россия Культура", "color": "#6A1B9A", "icon": "dilgram_tv_ru_kultura", "type": "web", "site": "https://smotrim.ru", "live_url": "https://smotrim.ru/channel/4", "embed_url": "", "stream_url": "", "telegram": "", "verified": true},
+        {"id": "ru_match", "name": "Матч ТВ", "color": "#D50000", "icon": "dilgram_tv_ru_match", "type": "web", "site": "https://matchtv.ru", "live_url": "https://matchtv.ru/video/channel/matchtv", "embed_url": "https://video.matchtv.ru/iframe/channel/106", "stream_url": "", "telegram": "Match_TV", "verified": true},
+        {"id": "ru_karusel", "name": "Карусель", "color": "#FF6F00", "icon": "dilgram_tv_ru_karusel", "type": "web", "site": "https://www.karusel-tv.ru", "live_url": "https://www.karusel-tv.ru/live", "embed_url": "https://player.mediavitrina.ru/karusel/carusel/ao___karusel____web/67ad9799d21cf/player.html", "stream_url": "", "telegram": "karusel", "verified": true}
       ]
     }
   ]
